@@ -42,7 +42,7 @@ cta-item2-link: /portfolio/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/HARSH277LAB
+link: https://github.com/HARSH277-LAB
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -76,7 +76,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: thakkar harsh,
+secondTitle: harsh thakkar,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -98,7 +98,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:thakkarharsh196@gmail.com
+link: mailto: harsh.thakkar15543@sakec.ac.in
 
 -- button.primary:
 title: Schedule a Meeting
@@ -116,7 +116,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/harsh thakkar
+link: https://www.linkedin.com/in/harsh-thakkar-0a7599284
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -124,7 +124,7 @@ link: https://twitter.com/pandey15711
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/HARSH277LAB
+link: https://github.com/HARSH277-LAB
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
@@ -132,7 +132,7 @@ link: https://instagram.com/harsh_1781_03
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:thakkarharsh196@gmail.com
+link: mailto:harsh.thakkar15543@sakec.ac.in
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
@@ -168,7 +168,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: thakkar harsh,
+secondTitle: harsh thakkar,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -190,7 +190,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:thakkarharsh196@gmail.com
+link: mailto:harsh.thakkar15543@sakec.ac.in
 
 -- button.primary:
 title: Schedule a Meeting
@@ -207,7 +207,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/harsh thakkar
+link: https://www.linkedin.com/in/harsh-thakkar-0a7599284
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -215,7 +215,7 @@ link: https://twitter.com/pandey15711
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/HARSH277LAB
+link: https://github.com/HARSH277-LAB
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
@@ -223,7 +223,7 @@ link: https://instagram.com/harsh_1781_03
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:thakkarharsh196@gmail.com
+link: mailto:harsh.thakkar15543@sakec.ac.in
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
