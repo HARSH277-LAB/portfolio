@@ -42,7 +42,7 @@ cta-item2-link: /portfolio/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/HARSH277-LAB
+link: https://github.com/HARSH277-LAB//
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -76,7 +76,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Thakkar Harsh,
+secondTitle: Harsh Thakkar,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -116,15 +116,15 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://www.linkedin.com/in/harsh-thakkar-0a7599284
+link: https://www.linkedin.com/in/harsh-thakkar-0a7599284/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/pandey15711
+link: https://twitter.com/harshthakk57293
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/HARSH277-LAB
+link: https://github.com/HARSH277-LAB/
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
@@ -168,7 +168,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Thakkar Harsh,
+secondTitle: Harsh Thakkar,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -207,15 +207,15 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://www.linkedin.com/in/harsh-thakkar-0a7599284
+link: https://www.linkedin.com/in/harsh-thakkar-0a7599284/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/pandey15711
+link: https://twitter.com/harshthakk57293
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/HARSH277-LAB
+link: https://github.com/HARSH277-LAB/
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
